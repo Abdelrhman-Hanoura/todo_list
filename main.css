@@ -81,6 +81,7 @@ main{
 }
 .task_list{
     padding: 16px;
+
 }
 
 .task-list h2 {
@@ -95,7 +96,7 @@ main{
 	background-color: var(--darkest);
 	padding: 16px;
 	border-radius: 16px;
-	margin-bottom: 16px;
+	margin: 20px 16px;
 }
 .task .content{
     flex: 1 1 0%;
